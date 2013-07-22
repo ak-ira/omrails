@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.13'
 gem 'jquery-rails'
-gem 'therubyracer'
 
 group :production do
 	gem 'pg'
